@@ -1,5 +1,5 @@
 # I am Max Huddleston
-I am a self-taught programmer and an apt practicer of 6+ programming languages.
+I am a self-taught programmer and an apt practicer of 6+ programming languages. I also happen to be fairly new to GitHub.
 
 <!--
 **MRH2818/MRH2818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
